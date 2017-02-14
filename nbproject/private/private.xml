@@ -3,18 +3,16 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/Users/wataru/programs/php/task_intermediate/app/User.php</file>
-            <file>file:/Users/wataru/programs/php/task_intermediate/resources/views/layouts/app.blade.php</file>
+            <file>file:/Users/wataru/programs/php/task_intermediate/public/web.config</file>
+            <file>file:/Users/wataru/programs/php/task_intermediate/public/index.php</file>
+            <file>file:/Users/wataru/programs/php/task_intermediate/app/Http/Kernel.php</file>
+            <file>file:/Users/wataru/programs/php/task_intermediate/bootstrap/app.php</file>
             <file>file:/Users/wataru/programs/php/task_intermediate/app/Task.php</file>
-            <file>file:/Users/wataru/programs/php/task_intermediate/app/Repositories/TaskRepository.php</file>
-            <file>file:/Users/wataru/programs/php/task_intermediate/resources/views/home.blade.php</file>
-            <file>file:/Users/wataru/programs/php/task_intermediate/routes/web.php</file>
+            <file>file:/Users/wataru/programs/php/task_intermediate/app/Infrastracture/Db/TaskDao.php</file>
+            <file>file:/Users/wataru/programs/php/task_intermediate/tests/ExampleTest.php</file>
             <file>file:/Users/wataru/programs/php/task_intermediate/app/Policies/TaskPolicy.php</file>
-            <file>file:/Users/wataru/programs/php/task_intermediate/resources/views/tasks/index.blade.php</file>
-            <file>file:/Users/wataru/programs/php/task_intermediate/config/app.php</file>
-            <file>file:/Users/wataru/programs/php/task_intermediate/resources/views/common/errors.blade.php</file>
+            <file>file:/Users/wataru/programs/php/task_intermediate/routes/web.php</file>
             <file>file:/Users/wataru/programs/php/task_intermediate/app/Http/Controllers/TaskController.php</file>
-            <file>file:/Users/wataru/programs/php/task_intermediate/app/Providers/AuthServiceProvider.php</file>
         </group>
     </open-files>
 </project-private>
