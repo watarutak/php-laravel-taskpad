@@ -1,6 +1,7 @@
 <?php
 
 /**
+ * this is just a comment for practicing pull request
  * Laravel - A PHP Framework For Web Artisans
  *
  * @package  Laravel
